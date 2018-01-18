@@ -4,7 +4,7 @@
 [push]
 	default = matching
 [http]
-	proxy = https://web-proxy.oa.com:8080
+	proxy = https://***-proxy.**.com:8080
 [diff]
 	tool = vimdiff
 [alias]
